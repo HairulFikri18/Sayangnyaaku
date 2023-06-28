@@ -24,6 +24,8 @@ dist-ssr
 *.sw?
 
 .env
+.gitignore
+/README.md
 
 # vscode
 .vscode
